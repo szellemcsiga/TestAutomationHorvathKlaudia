@@ -1,0 +1,1 @@
+{"uuid":"63e1871c-6412-438e-9ee7-61676479baaa","name":"getTextFromPage()","children":["9c5094dc-8b1f-42c5-b89b-07860db2a8d1"],"befores":[{"name":"Setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1656002934623,"stop":1656002944953}],"afters":[],"links":[],"start":1656002934229,"stop":1656002956611}

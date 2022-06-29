@@ -1,0 +1,1 @@
+{"uuid":"c19d9dfa-98ad-45e6-bf1a-63829e2c37c9","name":"SalvarImagemFileOnSite()","children":["0dd42239-aff2-46a7-a284-32d74b028ec9"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1655998549266,"stop":1655998552663}],"afters":[],"links":[],"start":1655998549124,"stop":1655998557930}

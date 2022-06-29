@@ -1,0 +1,5 @@
+elsoprofil, jelszo1, elso@email.hu, nincs1
+masodikprofil, jelszo2, masodik@email.hu, nincs2
+harmadikprofil, jelszo3, harmadik@email.hu nincs3
+negyedikprofil, jelszo4, negyedik@email.hu, nincs4
+otodikprofil, jelszo5, otodik@email.hu, nincs5

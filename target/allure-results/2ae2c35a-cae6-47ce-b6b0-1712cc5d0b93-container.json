@@ -1,0 +1,1 @@
+{"uuid":"2ae2c35a-cae6-47ce-b6b0-1712cc5d0b93","name":"Logout Test with button","children":["fcdbd345-82aa-4261-ac14-8c4f1e30e058"],"befores":[{"name":"Setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1656512345562,"stop":1656512347869}],"afters":[],"links":[],"start":1656512345555,"stop":1656512358249}
